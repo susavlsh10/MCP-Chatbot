@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+.venv
+secure_user_data*.json
+archive/*
+client_secret*
+gmail_token*
+token*
+mcp_chatbot.log
+google_credentials.json
+experiments.ipynb
+papers/

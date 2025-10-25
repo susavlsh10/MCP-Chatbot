@@ -1,0 +1,25 @@
+[project]
+name = "mcp-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.71.0",
+    "arxiv>=2.2.0",
+    "fastmcp>=2.12.4",
+    "google-api-python-client>=2.185.0",
+    "google-auth>=2.41.1",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.2",
+    "google-genai>=1.45.0",
+    "mcp>=1.18.0",
+    "nest-asyncio>=1.6.0",
+    "pizzapi>=0.0.1",
+    "pydantic>=2.12.3",
+    "pymupdf>=1.26.5",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "pytz>=2025.2",
+    "requests>=2.32.5",
+]
